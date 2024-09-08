@@ -1,0 +1,233 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* header-black */
+.header-black{
+  background-color: black;
+  color: white;
+  padding: 5px 0px;
+}
+/* title pharagrap setec */
+.title{
+  margin-left: 78%;
+}
+/* header-yellow */
+.header-yellow{
+  background-color: yellow;
+  padding: 0px 50px;
+}
+/* icon */
+.icon{
+  width: 300px;
+  height: 100px;
+}
+/* list ul li */
+.list{
+  background-color: black;
+  padding: 10px 30px;
+}
+/* ul */
+.list ul{
+  display: flex;
+  color: white;
+  justify-content: space-between;
+  margin-right: 15%;
+}
+/* li */
+.list ul li{
+  list-style: none;
+}
+/* men header2 */
+.men-header2{
+  margin: 5px 48px;
+
+}
+/* subheader2 */
+.subheader2{
+  display: flex;
+  justify-content: space-between;
+}
+/* title-home */
+.title-home{
+  color: black;
+}
+/* search-box and id=>type */
+#type{
+  width: 150px;
+  padding: 3px 5px;
+}
+/* search-box and id=>search */
+#search{
+  width: 50px;
+  padding: 3px 2px;
+}
+/* menheader-yellow */
+.menheader-yellow{
+  padding: 5px;
+  background-color: yellow;
+  display: flex;
+  justify-content: space-between;
+}
+/* yellow-home */
+.yellow-home{
+  padding: 0px 30px;
+}
+/* home */
+.home{
+  font-weight: bold;
+}
+/* ANNOUCEMENT */
+.ANNOUCEMENT{
+  padding: 0px 30px;
+}
+/* title-ANNOUCEMENT */
+.title-ANNOUCEMENT{
+  font-weight: bold;
+}
+/* images and pharagraph */
+.imagesandpharagraph{
+  display: flex;
+  justify-content: space-between;
+}
+/* images-right */
+.images-right{
+  padding: 15px 0px;
+}
+/* right */
+.right{
+  width: 99%;
+  height: 25%;
+}
+/* System */
+.System{
+  font-weight: 550;
+  text-align: center;
+  font-size: 25px;
+}
+/* pharagraph */
+.pharagraph{
+  font-size: 1em;
+}
+/* images-left */
+.images-left{
+  padding: 15px 0px;
+}
+/* left */
+.left{
+  width: 200px;
+}
+.menheader-join{
+  padding: 10px 0px;
+}
+.header-yellow-join{
+  padding: 10px;
+  background-color: yellow;
+}
+.title-join{
+  text-align: center;
+}
+
+/* images-rightdesign */
+.images-rightdesign{
+  padding: 15px 0px;
+}
+/* right-design */
+.right-design{
+  width: 99%;
+  height: 25%;
+}
+/* list-design */
+.list-design {
+  padding: 0px 40px;
+}
+/* design */
+.design{
+  text-align: center;
+  font-weight: 550;
+  font-size: 25px;
+}
+/* men-header3 */
+.men-header3{
+  margin: 30px 0px;
+  background-color: black;
+}
+/* subheader3 */
+.subheader3{
+
+  margin: 5px 48px;
+  display: flex;
+}
+.title-vission{
+  color: white;
+  padding: 15px 0px;
+}
+/* vission-list */
+.vission-list{
+  color: white;
+  padding: 40px 0px;
+}
+/* title-Mission */
+.title-Mission{
+  color: white;
+  padding: 15px 0px;
+  margin-left: 15%;
+}
+/* Mission-list */
+.Mission-list{
+  color: white;
+  padding: 40px 0px;
+}
+/* title-academic */
+.title-academic{
+  color: white;
+  padding: 15px 0px;
+  margin-left: 15%;
+}
+/* title-academic-list */
+.title-academic-list{
+  color: white;
+  padding: 40px 0px;
+}
+/* MIS-Desing1 */
+.MIS-Design1{
+  color: white;
+  margin-left: 40px;
+}
+/* MIS-DESING-BIT */
+.MIS-DESING-BIT{
+  color: white;
+  margin-left: 40px;
+}
+/* MIS-Design2 */
+.MIS-Design2{
+  color: white;
+  margin-left: 40px;
+}
+.form-login{
+  padding: 0px 40px;
+  margin-left: 18%;
+}
+.title-login{
+  color: white;
+  padding: 15px 0px;
+  font-weight: 550;
+}
+.label-u-name{
+  margin-left: 5px;
+  color: white;
+  font-weight: 300;
+}
+.lable-password{
+  color: white;
+  font-weight: 300;
+
+}
+.submit-login{
+  margin-left: 70px;
+}
+.log{
+  padding: 1px 10px;
+}
